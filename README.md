@@ -28,8 +28,15 @@ The following cleaning process was undergone to make the data suitable for model
 <br/><br/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="620" height="550"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/44c2e068-1890-4a6c-8277-613ee166c6ae.png" width="620" height="550"><BR/><BR/>
 </p>
+<br/>
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/58536416-a049-478b-a059-ea3e00c4235f.png" width="620" height="550"><BR/><BR/>
+</p>
+
+
+
 
 <h2> DATA MODELLING </h2>
 There was no need for modeling, as only one table was supplied.
