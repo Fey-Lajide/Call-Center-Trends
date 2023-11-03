@@ -87,10 +87,10 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
 </P>
 <H2> INSIGHTS </H2>
-This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. It can be better though and i believe if more calls are answered then more cases will be resolved.
+This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. If more calls are answered then more cases will be resolved.
 <br/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="620" height="350"><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="620" height="250"><BR/>
 </P>
 
 
