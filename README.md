@@ -24,6 +24,13 @@ The following cleaning process was undergone to make the data suitable for model
 ----- 3 - Neutral<BR/>
 ----- 2 - Unsatisfied<BR/>
 ----- 1 - Very unsatisfied
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1b5ea2e5-5f97-46cd-b729-05a9686e87bf.png" width="620" height="550"><BR/><BR/>
+</p>
+<br/>
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/58536416-a049-478b-a059-ea3e00c4235f.png" width="620" height="550"><BR/><BR/>
+</p>
 <br/><br/>
 <H3> DATA TRANSFORMATION </H3>
 The following measures were created using the DAX Functions. <br/><br/>
@@ -43,11 +50,7 @@ The following measures were created using the DAX Functions. <br/><br/>
 ----- unresolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "N")<br/><br/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1b5ea2e5-5f97-46cd-b729-05a9686e87bf.png" width="620" height="550"><BR/><BR/>
-</p>
-<br/>
-<p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/58536416-a049-478b-a059-ea3e00c4235f.png" width="620" height="550"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/759c1b0e-fb23-4f40-9cf2-09175b80cfbb.png" width="620" height="550"><BR/><BR/>
 </p>
 
 <h2> DATA MODELLING </h2>
