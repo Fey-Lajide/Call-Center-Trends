@@ -79,14 +79,17 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 <br/><br/>
 📫 Agent Dan answered the highest number of calls (523). 118 were highly satisfactory and 143 were just satisfactory, while he had 166 neutral callers, 49 highly unsatisfied, and 47 unsatisfied. <br/><br/>
 📫 Agent Stewart answered the lowest number of calls (477). 100 were highly satisfactory and 145 were just satisfactory, while she had 110 abandoned calls, an average answer speed of 66.18, and 25,874.38 average length of calls. <br/><br/>
-📫 The highest sales was recorded in 2018<br/><br/>
-📫 The highest profit was recorded in the West region<br/><br/>
-📫 Consumer had the highest profit was segment<br/><br/>
-📫 Technology had the highest profit for category<br/><br/>
+📫 Cals pertaining to Streaming was answered the more (847). Other topics in decreasing are: 818 Payment Related, 805 Technical Support, 795 Admin Support, 789 Contract Related. 
 <br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b88c7a63-987d-49df-a5c6-dd77f0e7b404.png" width="1720" height="650"><BR/>
 </P>
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
+</P>
+<H2> INSIGHTS </H2>
+This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. It can be better though and i believe if more calls are answered then more cases will be resolved.
+<br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
 </P>
