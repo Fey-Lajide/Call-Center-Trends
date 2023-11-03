@@ -28,21 +28,18 @@ The following cleaning process was undergone to make the data suitable for model
 <br/><br/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/44c2e068-1890-4a6c-8277-613ee166c6ae.png" width="620" height="550"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/4e686d4a-54b7-4f21-99db-6543e7a65c85.png" width="620" height="550"><BR/><BR/>
 </p>
 <br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/58536416-a049-478b-a059-ea3e00c4235f.png" width="620" height="550"><BR/><BR/>
 </p>
 
-
-
-
 <h2> DATA MODELLING </h2>
 There was no need for modeling, as only one table was supplied.
 <br/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/710d3384-2f00-4f3c-9edc-2fe542261c51.png" width="420" height="500"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/47470dda-5cd2-4e9c-a444-b11797e7d281.png" width="420" height="500"><BR/><BR/>
 </p>
 
 <h2> DATA VISULAIZATION </h2>
