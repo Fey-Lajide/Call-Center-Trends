@@ -69,7 +69,7 @@ The following visualization tools were used for their respective purposes:
 🛠️ Slicer: For filtering agent and topic. </BR><BR/>
 🛠️ 100% Stacked Bar Chart: To visualize resolved vs unresolved cases. <BR/><BR/>
 🛠️ Scatter Plot: To show the agent quadrant (average call duration vs calls answered)
-<BR/>
+<BR/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/c5c91f77-689b-4d26-8585-3423d2655bb0.png" width="1720" height="650"><BR/><BR/>
 </P>
@@ -90,7 +90,7 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. It can be better though and i believe if more calls are answered then more cases will be resolved.
 <br/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="620" height="550"><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="620" height="350"><BR/>
 </P>
 
 
