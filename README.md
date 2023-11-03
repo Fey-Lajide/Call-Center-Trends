@@ -74,22 +74,21 @@ The following visualization tools were used for their respective purposes:
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/c5c91f77-689b-4d26-8585-3423d2655bb0.png" width="1720" height="650"><BR/><BR/>
 </P>
-
-
 <H2> DATA ANALYSIS </H2>
 After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
 <br/><br/>
-📫 Copiers gave the highest profit in the profit for sub-category<br/><br/>
+📫 Agent Dan answered the highest number of calls (523). 118 were highly satisfactory and 143 were just satisfactory, while he had 166 neutral callers, 49 highly unsatisfied, and 47 unsatisfied. <br/><br/>
+📫 Agent Stewart answered the lowest number of calls (477). 100 were highly satisfactory and 145 were just satisfactory, while she had 110 abandoned calls, an average answer speed of 66.18, and 25,874.38 average length of calls. <br/><br/>
 📫 The highest sales was recorded in 2018<br/><br/>
 📫 The highest profit was recorded in the West region<br/><br/>
 📫 Consumer had the highest profit was segment<br/><br/>
 📫 Technology had the highest profit for category<br/><br/>
 <br/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/c984958f-2d67-4d39-8407-3d221db6ea35png" width="1720" height="650"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b88c7a63-987d-49df-a5c6-dd77f0e7b404.png" width="1720" height="650"><BR/>
 </P>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2410f197-120e-4598-9ee8-8dee7aace542png" width="1720" height="650"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
 </P>
 
 
