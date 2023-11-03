@@ -31,7 +31,7 @@ The following cleaning process was undergone to make the data suitable for model
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/58536416-a049-478b-a059-ea3e00c4235f.png" width="620" height="550"><BR/><BR/>
 </p>
-<br/>
+
 <H3> DATA TRANSFORMATION </H3>
 The following measures were created using the DAX Functions. <br/><br/>
 ----- Agent Perfomance Quadrant = SUM(Sheet1[AvgTalkDuration])/[Total No of Answered Calls]<br/>
@@ -48,7 +48,7 @@ The following measures were created using the DAX Functions. <br/><br/>
 ----- Total Very Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Satisfied")<br/>
 ----- Total Very UnSatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Unsatisfied")<br/>
 ----- unresolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "N")<br/><br/>
-
+<br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/759c1b0e-fb23-4f40-9cf2-09175b80cfbb.png" width="620" height="550"><BR/><BR/>
 </p>
