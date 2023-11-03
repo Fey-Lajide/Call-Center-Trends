@@ -3,10 +3,8 @@ A PwC internship project that involved analyzing data for a call center to ident
 
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1e02d762-5ed1-474e-bc29-a6a32182fa7b.png" width="1720" height="650"> <BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/2a1859a3-ceef-43b5-8408-5e6871a27dde.png" width="1720" height="650"> <BR/><BR/>
 </p>
-
- 
 
 <H2> TABLE OF CONTENTS </H2>
 ⚡ DATA PREPARATION <br/><BR/>
@@ -28,7 +26,7 @@ The following cleaning process was undergone to make the data suitable for model
 <br/><br/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/4e686d4a-54b7-4f21-99db-6543e7a65c85.png" width="620" height="550"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1b5ea2e5-5f97-46cd-b729-05a9686e87bf.png" width="620" height="550"><BR/><BR/>
 </p>
 <br/>
 <p align = "center">
