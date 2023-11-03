@@ -62,7 +62,7 @@ There was no need for modeling, as only one table was supplied.
 
 <h2> DATA VISUALIZATION </h2>
 The following visualization tools were used for their respective purposes:
-<br><BR/>
+<br/>
 🛠️ Cards: To visualize the average speed of answer, answered calls, abandoned calls, and average length of calls <BR/><BR/>
 🛠️ Donut Chart: To visulize the overall customer satisfaction <BR/><BR/>
 🛠️ Line Chart: To visualize calls per time. </BR><BR/>
@@ -91,7 +91,7 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. It can be better though and i believe if more calls are answered then more cases will be resolved.
 <br/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="1720" height="650"><BR/>
 </P>
 
 
