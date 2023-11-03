@@ -15,11 +15,16 @@ A PwC internship project that involved analyzing data for a call center to ident
 ⚡ DATA ANALYSIS <br/><BR/>
 
 <H2> DATA PREPARATION </H2>
-The following cleaning process was undergone to make the data suitable for modeling and analysis(DONE IN THE POWER QUERY ENVIRONMENT):
-👯 It was noticed that the table had no headers and that the first role were the headers for the table, and so the first row was promoted using the "use first row as header" prompt. 
-👯 The datatype for the call id column was changed from numeric to text.
-👯 A conditional column was added for the column: satisfaction rating to properly convert the rating number to ratings that are easier to analyse and visualize. 5 - Very Satisfied, 4 - Satisfied, 3 - Neutral, 2 - Unsatisfied, 1 - Very unsatisfied
-<br/>
+The following cleaning process was undergone to make the data suitable for modeling and analysis(DONE IN THE POWER QUERY ENVIRONMENT):<br/>
+👯 It was noticed that the table had no headers and that the first role were the headers for the table, and so the first row was promoted using the "use first row as header" prompt. <br/>
+👯 The datatype for the call id column was changed from numeric to text.<br/>
+👯 A conditional column was added for the column: satisfaction rating to properly convert the rating number to ratings that are easier to analyse and visualize. 
+----- 5 - Very Satisfied
+----- 4 - Satisfied
+----- 3 - Neutral
+----- 2 - Unsatisfied
+----- 1 - Very unsatisfied
+<br/><br/>
 
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="620" height="550"><BR/><BR/>
