@@ -62,7 +62,7 @@ There was no need for modeling, as only one table was supplied.
 
 <h2> DATA VISUALIZATION </h2>
 The following visualization tools were used for their respective purposes:
-<br/>
+<br/><br/>
 🛠️ Cards: To visualize the average speed of answer, answered calls, abandoned calls, and average length of calls <BR/><BR/>
 🛠️ Donut Chart: To visulize the overall customer satisfaction <BR/><BR/>
 🛠️ Line Chart: To visualize calls per time. </BR><BR/>
