@@ -25,7 +25,7 @@ The following cleaning process was undergone to make the data suitable for model
 ----- 2 - Unsatisfied<BR/>
 ----- 1 - Very unsatisfied
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1b5ea2e5-5f97-46cd-b729-05a9686e87bf.png" width="620" height="550"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/aa977bc3-897c-4afe-b4a9-e735d74c4dcd.png" width="620" height="550"><BR/><BR/>
 </p>
 <br/>
 <p align = "center">
