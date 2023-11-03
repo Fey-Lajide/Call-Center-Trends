@@ -27,19 +27,19 @@ The following cleaning process was undergone to make the data suitable for model
 <br/><br/>
 <H3> DATA TRANSFORMATION </H3>
 The following measures were created using the DAX Functions. <br/><br/>
------ Agent Perfomance Quadrant = SUM(Sheet1[AvgTalkDuration])/[Total No of Answered Calls]<br/><br/>
------ avg length of calls = [Length of Calls]/[Total No of Calls]<br/><br/>
------ Avg Speed of Answer = SUM(Sheet1[Speed of answer in seconds])/[Total No of Answered Calls]<br/><br/>
------ Length of Calls = SUM(Sheet1[Speed of answer in seconds])*SUM(Sheet1[AvgTalkDuration])<br/><br/>
------ resolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "Y")<br/><br/>
------ Total Cases = COUNT(Sheet1[Resolved])<br/><br/>
------ Total Neutral = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Neutral")<br/><br/>
------ Total No of Abandoned Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "N")<br/><br/>
------ Total No of Answered Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "Y")<br/><br/>
------ Total Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Satisfied")<br/><br/>
------ Total Unatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Unsatisfied")<br/><br/>
------ Total Very Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Satisfied")<br/><br/>
------ Total Very UnSatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Unsatisfied")<br/><br/>
+----- Agent Perfomance Quadrant = SUM(Sheet1[AvgTalkDuration])/[Total No of Answered Calls]<br/>
+----- avg length of calls = [Length of Calls]/[Total No of Calls]<br/>
+----- Avg Speed of Answer = SUM(Sheet1[Speed of answer in seconds])/[Total No of Answered Calls]<br/>
+----- Length of Calls = SUM(Sheet1[Speed of answer in seconds])*SUM(Sheet1[AvgTalkDuration])<br/>
+----- resolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "Y")<br/>
+----- Total Cases = COUNT(Sheet1[Resolved])<br/>
+----- Total Neutral = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Neutral")<br/>
+----- Total No of Abandoned Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "N")<br/>
+----- Total No of Answered Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "Y")<br/>
+----- Total Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Satisfied")<br/>
+----- Total Unatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Unsatisfied")<br/>
+----- Total Very Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Satisfied")<br/>
+----- Total Very UnSatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Unsatisfied")<br/>
 ----- unresolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "N")<br/><br/>
 
 <p align = "center">
