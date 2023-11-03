@@ -33,7 +33,7 @@ The following cleaning process was undergone to make the data suitable for model
 </p>
 
 <H3> DATA TRANSFORMATION </H3>
-The following measures were created using the DAX Functions. <br/><br/>
+The following measures were created using the DAX Functions: <br/><br/>
 ----- Agent Perfomance Quadrant = SUM(Sheet1[AvgTalkDuration])/[Total No of Answered Calls]<br/>
 ----- avg length of calls = [Length of Calls]/[Total No of Calls]<br/>
 ----- Avg Speed of Answer = SUM(Sheet1[Speed of answer in seconds])/[Total No of Answered Calls]<br/>
@@ -53,14 +53,14 @@ The following measures were created using the DAX Functions. <br/><br/>
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/759c1b0e-fb23-4f40-9cf2-09175b80cfbb.png" width="620" height="550"><BR/><BR/>
 </p>
 
-<h2> DATA MODELLING </h2>
+<h2> DATA MODELING </h2>
 There was no need for modeling, as only one table was supplied.
 <br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/47470dda-5cd2-4e9c-a444-b11797e7d281.png" width="420" height="500"><BR/><BR/>
 </p>
 
-<h2> DATA VISULAIZATION </h2>
+<h2> DATA VISUALIZATION </h2>
 The following visualization tools were used for their respective purposes:
 <br><BR/>
 🛠️ Cards: To visualize the average speed of answer, answered calls, abandoned calls, and average length of calls <BR/><BR/>
@@ -91,7 +91,5 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2410f197-120e-4598-9ee8-8dee7aace542png" width="1720" height="650"><BR/><BR/>
 </P>
-
-<br/>
 
 
