@@ -3,7 +3,7 @@ A PwC internship project that involved analyzing data for a call center to ident
 
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/2a1859a3-ceef-43b5-8408-5e6871a27dde.png" width="1720" height="650"> <BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/923eabc2-1712-4594-ba74-c0dd52c96634.png" width="1720" height="650"> <BR/><BR/>
 </p>
 
 <H2> TABLE OF CONTENTS </H2>
@@ -43,12 +43,12 @@ There was no need for modeling, as only one table was supplied.
 <h2> DATA VISULAIZATION </h2>
 The following visualization tools were used for their respective purposes:
 <br><BR/>
-🛠️ Cards: To visualize the total sales, profit, as well as the quantity sold. <BR/><BR/>
-🛠️ Donut and Pie Chart: To visulize the profit by category, segmnent, and region. <BR/><BR/>
-🛠️ Clustered Bar Chart: To visualize the profit by sub-category.<BR/><BR/>
-🛠️ Line Chart: To visualize the profit by year and quarter. </BR><BR/>
-🛠️ Slicer: For filtering. </BR><BR/>
-🛠️ Matrix: To visualize sales for each sub-category and region. <BR/><BR/>
+🛠️ Cards: To visualize the average speed of answer, answered calls, abandoned calls, and average length of calls <BR/><BR/>
+🛠️ Donut Chart: To visulize the overall customer satisfaction <BR/><BR/>
+🛠️ Line Chart: To visualize calls per time. </BR><BR/>
+🛠️ Slicer: For filtering agent and topic. </BR><BR/>
+🛠️ 100% Stacked Bar Chart: To visualize resolved vs unresolved cases. <BR/><BR/>
+🛠️ Scatter Plot: To show the agent quadrant (average call duration vs calls answered)
 
 <BR/>
 <p align = "center">
