@@ -74,7 +74,7 @@ The following visualization tools were used for their respective purposes:
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/c5c91f77-689b-4d26-8585-3423d2655bb0.png" width="1720" height="650"><BR/><BR/>
 </P>
 <H2> DATA ANALYSIS </H2>
-After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
+Here are some insights deduced from the reports:
 <br/><br/>
 📫 Agent Dan answered the highest number of calls (523). 118 were highly satisfactory and 143 were just satisfactory, while he had 166 neutral callers, 49 highly unsatisfied, and 47 unsatisfied. <br/><br/>
 📫 Agent Stewart answered the lowest number of calls (477). 100 were highly satisfactory and 145 were just satisfactory, while she had 110 abandoned calls, an average answer speed of 66.18, and 25,874.38 average length of calls. <br/><br/>
@@ -87,7 +87,7 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/b68f6492-ee50-4c7e-85ab-b4dc659377c7.png" width="1720" height="650"><BR/>
 </P>
 <H2> INSIGHTS </H2>
-This organisation is doing well as they have 72.92% resolved cases and 27.08% unresolved cases. If more calls are answered then more cases will be resolved.
+This organization is doing well, as they have 72.92% resolved cases and 27.08% unresolved cases. If more calls are answered then more cases will be resolved. There are other numerous insights to be uncovered from the report. 
 <br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/ac05f104-3ec8-4c9d-9265-03d525201010.png" width="620" height="250"><BR/>
