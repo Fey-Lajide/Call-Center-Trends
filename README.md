@@ -3,7 +3,7 @@ A PwC internship project that involved analyzing data for a call center to ident
 
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/923eabc2-1712-4594-ba74-c0dd52c96634.png" width="1720" height="650"> <BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/45ae6496-006d-4d94-b351-c36ce809646e.png" width="1720" height="650"> <BR/><BR/>
 </p>
 
 <H2> TABLE OF CONTENTS </H2>
@@ -13,6 +13,7 @@ A PwC internship project that involved analyzing data for a call center to ident
 ⚡ DATA ANALYSIS <br/><BR/>
 
 <H2> DATA PREPARATION </H2>
+<H3> DATA CLEANING </H3>
 The following cleaning process was undergone to make the data suitable for modeling and analysis(DONE IN THE POWER QUERY ENVIRONMENT):<br/><BR/>
 
 👯 It was noticed that the table had no headers and that the first role were the headers for the table, and so the first row was promoted using the "use first row as header" prompt. <br/><BR/>
@@ -24,6 +25,22 @@ The following cleaning process was undergone to make the data suitable for model
 ----- 2 - Unsatisfied<BR/>
 ----- 1 - Very unsatisfied
 <br/><br/>
+<H3> DATA TRANSFORMATION </H3>
+The following measures were created using the DAX Functions. <br/><br/>
+----- Agent Perfomance Quadrant = SUM(Sheet1[AvgTalkDuration])/[Total No of Answered Calls]<br/><br/>
+----- avg length of calls = [Length of Calls]/[Total No of Calls]<br/><br/>
+----- Avg Speed of Answer = SUM(Sheet1[Speed of answer in seconds])/[Total No of Answered Calls]<br/><br/>
+----- Length of Calls = SUM(Sheet1[Speed of answer in seconds])*SUM(Sheet1[AvgTalkDuration])<br/><br/>
+----- resolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "Y")<br/><br/>
+----- Total Cases = COUNT(Sheet1[Resolved])<br/><br/>
+----- Total Neutral = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Neutral")<br/><br/>
+----- Total No of Abandoned Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "N")<br/><br/>
+----- Total No of Answered Calls = CALCULATE(COUNT(Sheet1[Answered (Y/N)]), Sheet1[Answered (Y/N)] = "Y")<br/><br/>
+----- Total Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Satisfied")<br/><br/>
+----- Total Unatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Unsatisfied")<br/><br/>
+----- Total Very Satisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Satisfied")<br/><br/>
+----- Total Very UnSatisfied = CALCULATE(COUNT(Sheet1[Satisfaction rating]), Sheet1[Satisfaction Level] = "Very Unsatisfied")<br/><br/>
+----- unresolved cases = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "N")<br/><br/>
 
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/1b5ea2e5-5f97-46cd-b729-05a9686e87bf.png" width="620" height="550"><BR/><BR/>
@@ -50,9 +67,9 @@ The following visualization tools were used for their respective purposes:
 🛠️ 100% Stacked Bar Chart: To visualize resolved vs unresolved cases. <BR/><BR/>
 🛠️ Scatter Plot: To show the agent quadrant (average call duration vs calls answered)
 
-<BR/>
+<BR/><br/>
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="1720" height="650"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Call-Center-Trends/assets/124121752/c5c91f77-689b-4d26-8585-3423d2655bb0.png" width="1720" height="650"><BR/><BR/>
 </P>
 
 
