@@ -14,7 +14,7 @@ A PwC internship project that involved analyzing data for a call center to ident
 
 <H2> DATA PREPARATION </H2>
 <H3> DATA CLEANING </H3>
-The following cleaning process was undergone to make the data suitable for modeling and analysis(DONE IN THE POWER QUERY ENVIRONMENT):<br/><BR/>
+The following cleaning process was undergone to make the data suitable for modeling and analysis (DONE IN THE POWER QUERY ENVIRONMENT):<br/><BR/>
 
 👯 It was noticed that the table had no headers and that the first role were the headers for the table, and so the first row was promoted using the "use first row as header" prompt. <br/><BR/>
 👯 The datatype for the call id column was changed from numeric to text.<br/><BR/>
